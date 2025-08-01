@@ -18,5 +18,5 @@ phases:
 artifacts:
   files:
     - "**/*"
-  base-directory: "dist/admang"
+  base-directory: "dist/ADMAng"
   discard-paths: no
